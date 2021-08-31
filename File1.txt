@@ -4,3 +4,5 @@ Hello world
 change diff
 
 change to fix bug 1
+
+Change for WI 4 by Manager
