@@ -1,8 +1,10 @@
 Welcome to Persistent
 Hello world
 
-change diff
+change- diff
 
-change to fix bug 1
+change- to fix bug 1
 
-Change for WI 4 by Manager
+Change- for WI 4 by Manager
+
+change- to fix bug 2
