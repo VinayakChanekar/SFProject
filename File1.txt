@@ -4,3 +4,5 @@ Hello world
 change diff
 
 change to fix bug 1
+
+changes to fix bug 2
